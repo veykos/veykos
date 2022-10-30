@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">An aspiring web developer from Berlin</h3>
 
-🎓 I came to Berlin in August 22 to pursue my dream of becoming a web developer. I completed Ironhack's 10 week web development bootcamp
+🎓 I came to Berlin in August '22 to pursue my dream of becoming a web developer. I completed Ironhack's 10 week web development bootcamp
 and will keep on learning and improving.
 
-🌱 Focused on the MERN stack, but also trying to learn new tech and good practices (TypeScript will be first!).
+🌱 Focused on the MERN stack but also trying to learn new tech and good practices (TypeScript will be first!).
 
-🎯 My goal is to become a versatile developer - I want to be good at both the frond and back end.
+🎯 My goal is to become a versatile developer - I want to be good at both the front and back end.
 
-⚓ With background in Ship Navigation I know a thing or two about responsiblity, leading and being part of a team, deadlines and working under pressure.
+⚓ With a background in Ship Navigation I know a thing or two about responsibility, leading and being part of a team, deadlines and working under pressure.
 
-🏋️‍♂️ Outside of programming I love lifting weights, cooking delicious meals, and long walks.
+🏋️‍♂️ Other than programming, I love lifting weights, cooking delicious meals, and long walks.
 
 
 
